@@ -11,7 +11,7 @@ curl https://raw.githubusercontent.com/oumoussa98/easy-backup/main/backup.sh > b
 chmod +x backup
 
 ```
-- Now create a privte github repository
+- Now create a private github repository
 - Edit GITORIGIN inside ~/.local/bin/backup
 
 # setup with zsh
